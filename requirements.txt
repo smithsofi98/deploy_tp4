@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-_py-xgboost-mutex=2.0=cpu_0
+#_py-xgboost-mutex=2.0=cpu_0
 abseil-cpp=20210324.1=h0e60522_0
 aiohttp=3.8.1=py38h294d835_1
 aiosignal=1.2.0=pyhd8ed1ab_0
