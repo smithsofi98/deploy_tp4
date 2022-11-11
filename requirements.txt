@@ -50,3 +50,4 @@ watchdog==2.1.9
 webencodings==0.5.1
 wincertstore==0.2
 xgboost==1.7.1
+setuptools==65.5.0
